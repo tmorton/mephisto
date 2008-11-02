@@ -1,5 +1,5 @@
 <VirtualHost *:80>
   ServerName timothymorton.com
-  DocumentRoot /var/rails/mephisto/public
+  DocumentRoot /var/rails/mephisto/current/public
   RailsEnv production
 </VirtualHost>
